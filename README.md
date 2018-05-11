@@ -1,7 +1,7 @@
 # MyReads
 
 ## Project Purpose:
-The purpose of this project is to create an basic React-based app by implementing all knowledge learned from first class, including state management, react router and life cycle event, etc.
+Created an basic React-based app by implementing all knowledge learned from first class, including state management, react router and life cycle event, etc.
 
 
 ## How to Load the App:
